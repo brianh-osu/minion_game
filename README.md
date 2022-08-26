@@ -1,4 +1,4 @@
-# minion_game
+# minion_game - Full description is on HackerRank problem link: https://www.hackerrank.com/challenges/the-minion-game/problem?isFullScreen=true
 Minion game 
 
 Kevin and Stuart want to play the 'The Minion Game'.
