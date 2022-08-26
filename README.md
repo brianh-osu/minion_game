@@ -1,4 +1,10 @@
 # minion_game - Full description is on HackerRank problem link: https://www.hackerrank.com/challenges/the-minion-game/problem?isFullScreen=true
+
+Firstly, this Repository is dedicated to me trying to simplify my code. I run into the error:
+Time limit exceeded
+Your code did not execute within the time limits. Please optimize your code. For more information on execution time limits, refer to the environment page
+--
+
 Minion game 
 
 Kevin and Stuart want to play the 'The Minion Game'.
